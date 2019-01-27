@@ -3,9 +3,13 @@ package d3;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
-/* Sum */
+/**
+ * 
+ * @author EunmiKang
+ * [S/W 문제해결 기본] 2일차 - Sum
+ *
+ */
 
 public class Problem_1209 {
 	public static void main(String[] args) throws IOException {
