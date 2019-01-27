@@ -1,14 +1,18 @@
 package d3;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/**
+ * 
+ * @author EunmiKang
+ * 1206. [S/W 문제해결 기본] 1일차 - View
+ *
+ */
 public class Problem_1206 {
 	public static void main(String[] args) throws IOException {
-		//BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		BufferedReader br = new BufferedReader(new FileReader("input_1206.txt"));
+		//BufferedReader br = new BufferedReader(new FileReader("input_1206.txt"));
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String line = br.readLine();
 		int T = 1;
 		while (line != null) {
