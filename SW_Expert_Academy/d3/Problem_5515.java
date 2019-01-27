@@ -4,7 +4,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/* 2016년 요일 맞추기 */
+/**
+ * 
+ * @author EunmiKang
+ * 2016년 요일 맞추기
+ *
+ */
 
 public class Problem_5515 {
 	public static void main(String[] args) throws IOException {
