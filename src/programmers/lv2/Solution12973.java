@@ -21,7 +21,7 @@ class Solution12973 {
         
         int s_len = s.length();
         
-        if(answer % 2 != 0) {
+        if(s_len % 2 != 0) {
             return answer;
         }
         
